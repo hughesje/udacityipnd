@@ -1,2 +1,2 @@
 # udacityipnd
-Project submission for Udacity Introduction to Programming Nanodegree
+Project submissions for Udacity Introduction to Programming Nanodegree.
